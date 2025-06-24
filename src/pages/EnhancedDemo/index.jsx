@@ -36,13 +36,13 @@ import ReactApexChart from "react-apexcharts";
 import { 
   FaUsers, 
   FaShoppingCart, 
-  FaDollarSign, 
-  FaTrendingUp,
+  FaDollarSign,
   FaChartLine,
   FaDownload,
   FaFilter,
-  FaRefresh
+  FaSync as FaRefresh
 } from "react-icons/fa";
+import { FaArrowTrendUp as FaTrendingUp } from "react-icons/fa6";
 
 // Utilities
 import { 

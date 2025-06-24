@@ -37,15 +37,15 @@ import {
   FaUsers, 
   FaShoppingCart, 
   FaRupeeSign,
-  FaTrendingUp,
   FaChartLine,
   FaDownload,
   FaFilter,
-  FaRefresh,
+  FaSync as FaRefresh,
   FaMobile,
   FaLaptop,
   FaGamepad
 } from "react-icons/fa";
+import { FaArrowTrendUp as FaTrendingUp } from "react-icons/fa6";
 
 // Enhanced Indian utilities
 import { 

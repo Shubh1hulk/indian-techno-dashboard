@@ -29,7 +29,8 @@ import Breadcrumbs from "../../components/Common/Breadcrumb";
 import ReactApexChart from "react-apexcharts";
 
 // Icons
-import { FaUsers, FaShoppingCart, FaDollarSign, FaTrendingUp } from "react-icons/fa";
+import { FaUsers, FaDollarSign, FaArrowTrendUp as FaTrendingUp } from "react-icons/fa6";
+import { FaShoppingCart } from "react-icons/fa";
 
 const CustomDemo = () => {
   const [modal, setModal] = useState(false);
