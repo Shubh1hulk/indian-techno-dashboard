@@ -32,7 +32,7 @@ A modern, Indian-themed React admin dashboard with techno/funky styling, built o
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/indian-techno-dashboard.git
+   git clone https://github.com/Shubh1hulk/indian-techno-dashboard.git
    cd indian-techno-dashboard
    ```
 
@@ -48,6 +48,24 @@ A modern, Indian-themed React admin dashboard with techno/funky styling, built o
 
 4. **Open in browser**
    Navigate to `http://localhost:5173`
+
+## 🚀 Live Demo
+
+**🌐 Deployed at:** [Your Live Demo URL]
+
+## 📦 Deployment
+
+Ready for production deployment on:
+
+### **Deploy to Vercel**
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Shubh1hulk/indian-techno-dashboard)
+
+### **Deploy to Netlify**
+1. Fork this repository
+2. Connect to Netlify
+3. Deploy automatically
+
+**📋 See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.**
 
 ## 📁 Project Structure
 
