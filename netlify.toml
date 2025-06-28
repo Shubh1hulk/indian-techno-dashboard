@@ -8,5 +8,11 @@
   to = "/index.html"
   status = 200
 
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "max-age=31536000, immutable"
+
 [build.environment]
   NODE_VERSION = "18"
+  NPM_VERSION = "8"
